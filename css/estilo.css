@@ -89,7 +89,7 @@ article p {
         align-items: center ;
         justify-content: space-between;
     }
-    .logo {
+    .Logo {
         font-family: 'Open Sans', sans-serif;
         font-size: 30px;
     }
@@ -106,4 +106,5 @@ article p {
     }
 
 }
+
 
