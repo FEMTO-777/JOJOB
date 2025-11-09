@@ -90,6 +90,7 @@ article p {
         justify-content: space-between;
     }
     .logo {
+        font-family: 'Open Sans', sans-serif;
         font-size: 30px;
     }
     nav ul {
@@ -105,3 +106,4 @@ article p {
     }
 
 }
+
